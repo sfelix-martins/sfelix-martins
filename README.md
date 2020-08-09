@@ -22,8 +22,8 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
 <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
 <img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" />
-<img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
 <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
 <img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" />
 <img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" />
+<img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
 </p>
