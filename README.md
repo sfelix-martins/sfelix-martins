@@ -10,8 +10,8 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sam.martins.dev@gmail.com;
 
-<a href="https://github.com/lucasffm">
-    <img width="50%" align="right" width="50%" alt="Lucasffm github stats" src="https://github-readme-stats.vercel.app/api?username=sfelix-martins&show_icons=true&hide_border=true" />
+<a href="https://github.com/sfelix-martins">
+    <img width="50%" align="right" width="50%" alt="Samuel github stats" src="https://github-readme-stats.vercel.app/api?username=sfelix-martins&show_icons=true&hide_border=true" />
   </a>
 
 **Languages and Tools:**
